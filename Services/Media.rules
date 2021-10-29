@@ -1,5 +1,6 @@
 # 流媒体分流规则集
 # 包含Amazon，Apple News TV，Disney+ ，Netflix ，Pornhub，Spotify，TikTok，Twitch，YouTube，YouTubeMusic
+
 # Amazon
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
